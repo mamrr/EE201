@@ -79,11 +79,11 @@
       (plotinvisibletext false)
       (sketchpadsonfab false)
       (subtractmaskfromsilk false)
-      (outputformat 4)
+      (outputformat 1)
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "./")
+      (outputdirectory "../555 Timer Gerber Files/")
     )
   )
 
@@ -547,6 +547,7 @@
     )
   )
 
+  (gr_circle (center 151.638 63.627) (end 152.527 60.071) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp 110b2012-6ecd-4ab2-b5c4-3956b3484bbf))
   (gr_rect (start 109.982 57.15) (end 157.988 112.141) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp 63404b0c-d3ba-4d26-a488-bd2c95305cc5))
   (gr_text "Mameena Arromdee\n555 Timer Circuit" (at 118.491 60.071) (layer "F.SilkS") (tstamp 86a57bae-7ba4-46d7-95f0-e50cd90fa014)
     (effects (font (size 1 1) (thickness 0.15)))
